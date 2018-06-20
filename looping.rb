@@ -3,5 +3,6 @@ def looping
 	   puts "Wingadium Leviosa"
 end
 
+looping
 
 #call your method here
